@@ -9,6 +9,6 @@ python main.py
 
 instructions in txt <br>
 1. number of process or tracks<br>
-2. max<br>
+2. max/total of tracks<br>
 3. tracks/process<br>
 4. head<br>
