@@ -1,0 +1,22 @@
+MAIN PRIORITY
+```
+[X] FCFS
+[X] SSTF
+[X] SCAN
+[X] CSCAN
+[X] LOOK
+[X] CLOOK
+```
+SECONDARY PRIORITY
+```
+[X] Windows Support
+[X] Mac Support
+[X] with Graph 
+[X] Menu Driven
+```
+FINAL STEPS
+```
+[X] Verify
+[X] Prepare Presentation
+[X] Submit
+```
